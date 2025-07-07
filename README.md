@@ -12,7 +12,7 @@
 
 | | İsim Soyisim | Görev | |
 | :--- | :--- | :--- | :--- |
-| <!-- Profil Fotoğrafı --> | Halit Bakihan Tokgöz | Scrum Master, Product Owner, Designer | <!-- Sosyal Medya Linki --> |
+| <!-- Profil Fotoğrafı --> | Halit Bakihan Tokgöz | Scrum Master, Product Owner, Developer | <!-- Sosyal Medya Linki --> |
 | <!-- Profil Fotoğrafı --> | Mehmet Tunahan Çanak | Developer | <!-- Sosyal Medya Linki --> |
 
 
