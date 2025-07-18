@@ -113,3 +113,57 @@ Her bir düşman, farklı saldırı ve savunma taktikleri gerektiren, çözülme
 
 
 ---
+
+
+---
+# Sprint 2
+
+- **Sprint Notları**: User Story'ler ve Task'ler product backlog'ların içine yazılmıştır. Product backlog içinde farklı farklı kategorilere ayrılmış bir şekilde sunulmaktadır. 
+ <!-- Sprint notlarınızı buraya yazın. (Örnek: User Story'ler product backlog içine yazılmıştır...) -->
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 73 puan
+ <!-- Tahmini puanı buraya yazın. -->
+
+- **Puan tamamlama mantığı**: Proje boyunca tamamlanması gereken 214 puanlık backlog bulunmaktadır. Backlogların puanları Fibonacci serisi kullanılarak en zor 13 olmak üzere, zorluk derecesi azalacak şekilde sırasıyla; 8 puan, 5 puan, 3 puan, 2 puan ve 1 puandır.
+<!-- Puanlama mantığınızı buraya açıklayın. -->
+
+- **Backlog düzeni ve Story seçimleri**: Backlog, ileri seviye oynanış mekaniklerini içeren, özellikle çeşitli düşman saldırıları için tasarımcı dostu bir sistem üretmek için yapılmıştır. Ekibimizin sayısı az olduğundan Sprint başına tahmin edilen belirli bir puan sayımız mevcut değildir. Çalışmanın gece gündüz devam edebilmesi için esnek tutulmuştur. Trello Board'da gözüken mavi etiketli kartlar oyuncu mekanikleri, pembe etiketli kartlar sanat ve estetik, mor etiketli kartlar YZ, kırmızı etiketler savaş ve silahlar, gri renkli etiketler motorun işlevselliğini ile ilgili görevleri temsil etmektedir.
+ <!-- Backlog düzeninizi ve seçim kriterlerinizi buraya yazın. -->
+
+- **Daily Scrum**: Daily Scrum toplantıları Meets üzerinden gerçekleşmiştir. Daily Scrum toplantılarımız ve günlük Whatsapp konuşmalarımız linklerde mevcuttur.
+<details>
+<summary><strong>Daily Scrum Ekran Görüntüleri (Genişletmek için tıklayın)</strong></summary>
+  
+  <!-- Bu alana oyunun mevcut durumuna ait ekran görüntülerini ekleyin. -->
+  ![Sprint 1 - Daily Scrum](Assets/Docs/ReadmeFiles/DailyScrums/Sprint2/MeetsS2.jpeg)
+  ![Sprint 1 - Daily Scrum](Assets/Docs/ReadmeFiles/DailyScrums/Sprint2/whatsappchar.png)
+  
+</details>
+
+
+### Sprint Board
+<!-- Sprint board'unuzun ekran görüntüsünü buraya ekleyin. -->
+![Sprint Board Screenshot](Assets/Docs/ReadmeFiles/Sprint2Trello.png)
+
+<details>
+<summary><strong>Ürün Durumu: Ekran Görüntüleri (Genişletmek için tıklayın)</strong></summary>
+  
+  <!-- Bu alana oyunun mevcut durumuna ait ekran görüntülerini ekleyin. -->
+  ![Hareket Gif](Assets/Docs/ReadmeFiles/Animation.gif)
+  ![Pathfinding Gif](Assets/Docs/ReadmeFiles/AttackSO.png)
+  ![Weapon SO ekran görüntüsü](Assets/Docs/ReadmeFiles/AttackPhaseSO.png)
+  ![Object Pooler ekran görüntüsü](Assets/Docs/ReadmeFiles/EnemyShooting.gif)
+  
+</details>
+
+### Sprint Review
+- Oyunun rogue-like tasarlanması sebebi ile kararlaştırılan Scriptable Object kullanılarak Data-Driven şekilde düşman,silah ve düşman saldırıları sistemleri yapıldı. Bu sistemler sayesinde editör üzerinden düşman ve saldırı tasarlamaya olanak tanıyor. Oyunun ana karakteri ve bazı düşmanlarının tasarımları ve animasyonları hazırlandı. Oyunun şu anki halinde herhangi bir sorun bulunmadı.
+ <!-- Sprint review toplantısının özetini buraya yazın. -->
+- **Sprint Review Katılımcıları**: Halit Bakihan Tokgöz, Mehmet Tunahan Çanak  <!-- Katılımcıların isimlerini buraya yazın. -->
+
+### Sprint Retrospective
+- İki kişilik mini grubun gidişatının iyi olduğuna üzerinde uzlaşıldı ve oyunun son hali üzerinde tartışıldı.
+- **Sprint Review Katılımcıları**: Halit Bakihan Tokgöz, Mehmet Tunahan Çanak.
+
+
+---
