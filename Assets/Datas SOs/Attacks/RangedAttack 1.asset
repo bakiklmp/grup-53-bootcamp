@@ -1,0 +1,183 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08b3e2f108be8fc4eb34effd43b462b2, type: 3}
+  m_Name: RangedAttack 1
+  m_EditorClassIdentifier: 
+  attackName: Ranged Attack
+  icon: {fileID: 0}
+  phases:
+  - phaseName: Telegraph
+    duration: 0.5
+    animationTriggerName: 
+    soundEffect: {fileID: 0}
+    movementOverride:
+      movementType: 0
+      speedFactor: 0
+      distance: 0
+      direction: {x: 0, y: 0}
+      movementDuration: 0
+      rotationType: 0
+      spinSpeed: 360
+      easingFunction: 0
+      sfxOnStart: {fileID: 0}
+      vfxOnStart: {fileID: 0}
+      sfxOnObjectiveReached: {fileID: 0}
+      vfxOnObjectiveReached: {fileID: 0}
+      sfxOnEnd: {fileID: 0}
+      vfxOnEnd: {fileID: 0}
+    actionType: 4
+    meleeHitbox:
+      shape: 0
+      offset: {x: 0, y: 0}
+      primarySize: 0
+      secondarySize: 0
+      hitActiveStartTime: 0
+      hitActiveDuration: 0
+    meleeDamage: 0
+    isMeleeHitParryable: 0
+    meleeParryWindowStartOffset: 0
+    meleeParryWindowDuration: 0
+    projectileSpawnSettings:
+      projectilePrefab: {fileID: 0}
+      spawnPointOffset: {x: 0, y: 0}
+      patternType: 0
+      numberOfProjectiles: 0
+      patternParameter1: 0
+      patternParameter2: 0
+      projectileSpeed: 0
+      projectileDamage: 0
+      projectileLifetime: 0
+      isProjectileParryableByPlayerHitbox: 0
+      overrideDefaultParryability: 0
+      parryabilitySequence: 
+    enemySpawnSettings:
+      enemyPrefabToSpawn: {fileID: 0}
+      numberOfEnemiesToSpawn: 0
+      spawnPositionOffset: {x: 0, y: 0}
+      spawnAreaRadius: 0
+      activationDelay: 0
+    visualEffectPrefabOnSelf: {fileID: 0}
+    customEventName: 
+    chainToNextPhaseImmediately: 0
+    endAttackSequenceAfterThisPhase: 0
+  - phaseName: Throw
+    duration: 1
+    animationTriggerName: 
+    soundEffect: {fileID: 0}
+    movementOverride:
+      movementType: 0
+      speedFactor: 0
+      distance: 0
+      direction: {x: 0, y: 0}
+      movementDuration: 0
+      rotationType: 0
+      spinSpeed: 360
+      easingFunction: 0
+      sfxOnStart: {fileID: 0}
+      vfxOnStart: {fileID: 0}
+      sfxOnObjectiveReached: {fileID: 0}
+      vfxOnObjectiveReached: {fileID: 0}
+      sfxOnEnd: {fileID: 0}
+      vfxOnEnd: {fileID: 0}
+    actionType: 1
+    meleeHitbox:
+      shape: 0
+      offset: {x: 0, y: 0}
+      primarySize: 0
+      secondarySize: 0
+      hitActiveStartTime: 0
+      hitActiveDuration: 0
+    meleeDamage: 0
+    isMeleeHitParryable: 0
+    meleeParryWindowStartOffset: 0
+    meleeParryWindowDuration: 0
+    projectileSpawnSettings:
+      projectilePrefab: {fileID: 2991971818648682423, guid: 4057dfb331012bb47bb178d425709e74, type: 3}
+      spawnPointOffset: {x: 0, y: 0}
+      patternType: 2
+      numberOfProjectiles: 5
+      patternParameter1: 0.3
+      patternParameter2: 0
+      projectileSpeed: 10
+      projectileDamage: 10
+      projectileLifetime: 5
+      isProjectileParryableByPlayerHitbox: 0
+      overrideDefaultParryability: 0
+      parryabilitySequence: 
+    enemySpawnSettings:
+      enemyPrefabToSpawn: {fileID: 0}
+      numberOfEnemiesToSpawn: 0
+      spawnPositionOffset: {x: 0, y: 0}
+      spawnAreaRadius: 0
+      activationDelay: 0
+    visualEffectPrefabOnSelf: {fileID: 0}
+    customEventName: 
+    chainToNextPhaseImmediately: 0
+    endAttackSequenceAfterThisPhase: 0
+  - phaseName: Throw 2
+    duration: 1
+    animationTriggerName: 
+    soundEffect: {fileID: 0}
+    movementOverride:
+      movementType: 0
+      speedFactor: 0
+      distance: 0
+      direction: {x: 0, y: 0}
+      movementDuration: 0
+      rotationType: 0
+      spinSpeed: 360
+      easingFunction: 0
+      sfxOnStart: {fileID: 0}
+      vfxOnStart: {fileID: 0}
+      sfxOnObjectiveReached: {fileID: 0}
+      vfxOnObjectiveReached: {fileID: 0}
+      sfxOnEnd: {fileID: 0}
+      vfxOnEnd: {fileID: 0}
+    actionType: 1
+    meleeHitbox:
+      shape: 0
+      offset: {x: 0, y: 0}
+      primarySize: 0
+      secondarySize: 0
+      hitActiveStartTime: 0
+      hitActiveDuration: 0
+    meleeDamage: 0
+    isMeleeHitParryable: 0
+    meleeParryWindowStartOffset: 0
+    meleeParryWindowDuration: 0
+    projectileSpawnSettings:
+      projectilePrefab: {fileID: 2991971818648682423, guid: 4057dfb331012bb47bb178d425709e74, type: 3}
+      spawnPointOffset: {x: 0, y: 0}
+      patternType: 1
+      numberOfProjectiles: 5
+      patternParameter1: 30
+      patternParameter2: 0
+      projectileSpeed: 10
+      projectileDamage: 10
+      projectileLifetime: 5
+      isProjectileParryableByPlayerHitbox: 0
+      overrideDefaultParryability: 0
+      parryabilitySequence: 
+    enemySpawnSettings:
+      enemyPrefabToSpawn: {fileID: 0}
+      numberOfEnemiesToSpawn: 0
+      spawnPositionOffset: {x: 0, y: 0}
+      spawnAreaRadius: 0
+      activationDelay: 0
+    visualEffectPrefabOnSelf: {fileID: 0}
+    customEventName: 
+    chainToNextPhaseImmediately: 0
+    endAttackSequenceAfterThisPhase: 0
+  cooldownTime: 2
+  optimalRangeMin: 10
+  optimalRangeMax: 10
+  requiresLineOfSight: 1

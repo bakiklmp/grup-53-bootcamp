@@ -1,0 +1,14 @@
+{
+    "dependencies": [
+        {
+            "name": "com.nebukam.common",
+            "hash": "c5ce22576a67c5f50b60709a216cd9e85aa73040",
+            "url": "https://github.com/Nebukam/com.nebukam.common.git#0.1.7"
+        },
+        {
+            "name": "com.nebukam.job-assist",
+            "hash": "dd8820f9b746295f3ef707fa59b550f7d3992962",
+            "url": "https://github.com/Nebukam/com.nebukam.job-assist.git#1.1.6"
+        }
+    ]
+}
