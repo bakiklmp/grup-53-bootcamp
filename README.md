@@ -206,11 +206,11 @@ Her bir düşman, farklı saldırı ve savunma taktikleri gerektiren, çözülme
 ### Sprint Review
 - Oyunun rogue-like harita oluşturma ve düşman üretme kısımları test edildi. Oyunun ince detayları incelenip bitirmeye hazırlandı.
  <!-- Sprint review toplantısının özetini buraya yazın. -->
-- **Sprint Review Katılımcıları**: Halit Bakihan Tokgöz.   <!-- Katılımcıların isimlerini buraya yazın. -->
+- **Sprint Review Katılımcıları**: Halit Bakihan Tokgöz, Mehmet Tunahan Çanak.  <!-- Katılımcıların isimlerini buraya yazın. -->
 
 ### Sprint Retrospective
 - Oyunun son hali üzerine tartışıldı.
-- **Sprint Review Katılımcıları**: Halit Bakihan Tokgöz.
+- **Sprint Review Katılımcıları**: Halit Bakihan Tokgöz, Mehmet Tunahan Çanak.
 
 
 ---
