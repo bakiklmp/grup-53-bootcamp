@@ -167,3 +167,51 @@ Her bir düşman, farklı saldırı ve savunma taktikleri gerektiren, çözülme
 
 
 ---
+---
+# Sprint 3
+
+- **Sprint Notları**: User Story'ler ve Task'ler product backlog'ların içine yazılmıştır. Product backlog içinde farklı farklı kategorilere ayrılmış bir şekilde sunulmaktadır. 
+ <!-- Sprint notlarınızı buraya yazın. (Örnek: User Story'ler product backlog içine yazılmıştır...) -->
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 72 puan
+ <!-- Tahmini puanı buraya yazın. -->
+
+- **Puan tamamlama mantığı**: Proje boyunca tamamlanması gereken 214 puanlık backlog bulunmaktadır. Backlogların puanları Fibonacci serisi kullanılarak en zor 13 olmak üzere, zorluk derecesi azalacak şekilde sırasıyla; 8 puan, 5 puan, 3 puan, 2 puan ve 1 puandır.
+<!-- Puanlama mantığınızı buraya açıklayın. -->
+
+- **Backlog düzeni ve Story seçimleri**: Backlog, oyunun rogue-like mekaniklerini tamamlayacak ve oyunu son haline getirecek değişiklikler için yapılmıştır. Ekibimizin sayısı az olduğundan Sprint başına tahmin edilen belirli bir puan sayımız mevcut değildir. Çalışmanın gece gündüz devam edebilmesi için esnek tutulmuştur. Trello Board'da gözüken mavi etiketli kartlar oyuncu mekanikleri, pembe etiketli kartlar sanat ve estetik, mor etiketli kartlar YZ, kırmızı etiketler savaş ve silahlar, gri renkli etiketler motorun işlevselliğini ile ilgili görevleri temsil etmektedir.
+ <!-- Backlog düzeninizi ve seçim kriterlerinizi buraya yazın. -->
+
+- **Daily Scrum**: Daily Scrum toplantıları Meets üzerinden gerçekleşmiştir. Daily Scrum toplantılarımız ve günlük Whatsapp konuşmalarımız linklerde mevcuttur.
+<details>
+<summary><strong>Daily Scrum Ekran Görüntüleri (Genişletmek için tıklayın)</strong></summary>
+  
+  <!-- Bu alana oyunun mevcut durumuna ait ekran görüntülerini ekleyin. -->
+  ![Sprint 1 - Daily Scrum](Assets/Docs/ReadmeFiles/DailyScrums/Sprint3/Sprint3ss.png)
+  
+</details>
+
+
+### Sprint Board
+<!-- Sprint board'unuzun ekran görüntüsünü buraya ekleyin. -->
+![Sprint Board Screenshot](Assets/Docs/ReadmeFiles/TrelloBoard3.png)
+
+<details>
+<summary><strong>Ürün Durumu: Ekran Görüntüleri (Genişletmek için tıklayın)</strong></summary>
+  
+  <!-- Bu alana oyunun mevcut durumuna ait ekran görüntülerini ekleyin. -->
+  
+</details>
+
+### Sprint Review
+- Oyunun rogue-like harita oluşturma ve düşman üretme kısımları test edildi. Oyunun ince detayları incelenip bitirmeye hazırlandı.
+ <!-- Sprint review toplantısının özetini buraya yazın. -->
+- **Sprint Review Katılımcıları**: Halit Bakihan Tokgöz.   <!-- Katılımcıların isimlerini buraya yazın. -->
+
+### Sprint Retrospective
+- Oyunun son hali üzerine tartışıldı.
+- **Sprint Review Katılımcıları**: Halit Bakihan Tokgöz.
+
+
+---
+
